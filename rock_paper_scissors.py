@@ -58,11 +58,6 @@ for i in range(3):
     check_winner(user_input, computer_input)
     
         
-        
-    
-
-
-
 
 #Rock wins against scissors
 #scissors wins against paper
